@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Test</div>
+  return <div>Kotisivu</div>
 }
